@@ -118,7 +118,7 @@ public class ExcelToDatabase
 
 			for (int i = 1; i <= sheet.getLastRowNum(); i++) {
 				
-				// Instance creation of CustApptSched class for each and every row
+				
 				
 				DetailsInXl detailsInXlObj = new DetailsInXl();
 
